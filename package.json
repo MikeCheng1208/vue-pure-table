@@ -1,8 +1,8 @@
 {
   "name": "vue-pure-table",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "scripts": {
-    "serve": "vue-cli-service serve dev/serve.js",
+    "serve": "vue-cli-service serve example/serve.js",
     "prebuild": "rimraf ./dist",
     "build": "cross-env NODE_ENV=production rollup --config build/rollup.config.js",
     "build:ssr": "cross-env NODE_ENV=production rollup --config build/rollup.config.js --format cjs",
