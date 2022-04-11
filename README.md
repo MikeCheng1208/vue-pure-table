@@ -1,6 +1,4 @@
-# vue-pure-table
-
-Ａ easy simple table for Vue3
+# Vue-pure-table
 
 ![vue-pure-table](./assets/vue-pure-table.jpg)
 
@@ -15,3 +13,5 @@
         <img src="https://img.shields.io/badge/PRs-welcome-blue.svg">
     </a>
 </p>
+
+Ａ easy simple table for Vue3
