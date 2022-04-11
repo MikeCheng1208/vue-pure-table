@@ -14,4 +14,4 @@
     </a>
 </p>
 
-Ａ easy simple table for Vue3
+<p align=center>Ａ easy simple table for Vue3</p>
