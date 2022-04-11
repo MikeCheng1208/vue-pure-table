@@ -1,4 +1,4 @@
 # vue-pure-table
 
-一個簡單的 vue3 表格
+Ａ easy simple table for Vue3
 
