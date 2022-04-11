@@ -15,3 +15,7 @@
 </p>
 
 <p align=center>Ａ easy simple table for Vue3</p>
+
+
+[![NPM](https://nodei.co/npm/vue-pure-table.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/vue-pure-table)
+
