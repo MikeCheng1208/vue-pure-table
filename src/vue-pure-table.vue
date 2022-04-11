@@ -36,7 +36,7 @@ export default /*#__PURE__*/defineComponent({
 </script>
 
 <template>
-  <div class="vue-easy-table">
+  <div class="vue-pure-table">
     <ul id="columns">
       <li v-for="col in props.columns" :key="col.label" class="table_columns" :style="col.style">
         {{ col.label }}
@@ -61,7 +61,7 @@ export default /*#__PURE__*/defineComponent({
   margin: 0;
   box-sizing: border-box;
 }
-.vue-easy-table {
+.vue-pure-table {
   border: 1px solid #e0e0e0;
   border-radius: 5px;
   width: 100%;
