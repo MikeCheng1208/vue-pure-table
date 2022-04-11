@@ -1,6 +1,6 @@
 {
   "name": "vue-pure-table",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "scripts": {
     "serve": "vue-cli-service serve example/serve.js",
     "prebuild": "rimraf ./dist",
