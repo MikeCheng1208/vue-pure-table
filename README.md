@@ -1,6 +1,6 @@
 # Vue-pure-table
 
-![vue-pure-table](./assets/vue-pure-table.jpg)
+![vue-pure-table](https://i.imgur.com/RnLHvuZ.jpg)
 
 <p align=center>
     <a target="_blank" href="https://vuejs.org/" title="vue">
