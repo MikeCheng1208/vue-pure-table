@@ -2,7 +2,7 @@
 import { defineComponent, computed } from 'vue';
 
 export default /*#__PURE__*/defineComponent({
-  name: 'VueEasyTable', // vue component name
+  name: 'VuePureTable', // vue component name
   props: {
       columns: {
         type: Array,

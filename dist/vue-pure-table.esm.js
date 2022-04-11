@@ -1,7 +1,7 @@
 import { defineComponent, computed, openBlock, createElementBlock, createElementVNode, Fragment, renderList, normalizeStyle, toDisplayString, renderSlot } from 'vue';
 
 var script = /*#__PURE__*/defineComponent({
-  name: 'VueEasyTable',
+  name: 'VuePureTable',
   // vue component name
   props: {
     columns: {
@@ -108,11 +108,11 @@ function styleInject(css, ref) {
   }
 }
 
-var css_248z = "\n*[data-v-076b9632]{\n  padding: 0;\n  margin: 0;\n  box-sizing: border-box;\n}\n.vue-pure-table[data-v-076b9632] {\n  border: 1px solid #e0e0e0;\n  border-radius: 5px;\n  width: 100%;\n}\n#columns[data-v-076b9632]{\n  display: flex;\n  justify-content: space-between;\n  align-items: center;\n  height: 45px;\n  border-bottom: 1px solid #e0e0e0;\n}\n.table_columns[data-v-076b9632] {\n  height: 100%;\n  display: flex;\n  justify-content: center;\n  align-items: center;\n  border-right: 1px solid #e0e0e0;\n}\n.table_columns[data-v-076b9632]:last-child {\n  border: 0px;\n}\n.flex-col[data-v-076b9632] {\n  flex-direction: column;\n}\n.flex-col > li[data-v-076b9632] {\n  display: flex;\n  justify-content: center;\n  align-items: center;\n  width: 100%;\n  border-bottom: 1px solid #e0e0e0;\n}\n.flex-col > li[data-v-076b9632]:last-child {\n  border-bottom: 0px;\n}\n.flex-col > li > ul[data-v-076b9632] {\n  width: 100%;\n  display: flex;\n  justify-content: space-between;\n  align-items: center;\n  height: 68px;\n}\n.flex-col > li > ul > li[data-v-076b9632] {\n  height: 100%;\n  display: flex;\n  justify-content: center;\n  align-items: center;\n}\n";
+var css_248z = "\n*[data-v-7f001e7c]{\n  padding: 0;\n  margin: 0;\n  box-sizing: border-box;\n}\n.vue-pure-table[data-v-7f001e7c] {\n  border: 1px solid #e0e0e0;\n  border-radius: 5px;\n  width: 100%;\n}\n#columns[data-v-7f001e7c]{\n  display: flex;\n  justify-content: space-between;\n  align-items: center;\n  height: 45px;\n  border-bottom: 1px solid #e0e0e0;\n}\n.table_columns[data-v-7f001e7c] {\n  height: 100%;\n  display: flex;\n  justify-content: center;\n  align-items: center;\n  border-right: 1px solid #e0e0e0;\n}\n.table_columns[data-v-7f001e7c]:last-child {\n  border: 0px;\n}\n.flex-col[data-v-7f001e7c] {\n  flex-direction: column;\n}\n.flex-col > li[data-v-7f001e7c] {\n  display: flex;\n  justify-content: center;\n  align-items: center;\n  width: 100%;\n  border-bottom: 1px solid #e0e0e0;\n}\n.flex-col > li[data-v-7f001e7c]:last-child {\n  border-bottom: 0px;\n}\n.flex-col > li > ul[data-v-7f001e7c] {\n  width: 100%;\n  display: flex;\n  justify-content: space-between;\n  align-items: center;\n  height: 68px;\n}\n.flex-col > li > ul > li[data-v-7f001e7c] {\n  height: 100%;\n  display: flex;\n  justify-content: center;\n  align-items: center;\n}\n";
 styleInject(css_248z);
 
 script.render = render;
-script.__scopeId = "data-v-076b9632";
+script.__scopeId = "data-v-7f001e7c";
 
 // Import vue component
 // IIFE injects install function into component, allowing component
